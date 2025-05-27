@@ -1,2 +1,4 @@
 # ML_for_Microscopy
-Project for the course Machine Learning for Materials Design
+Project for the course Machine Learning for Materials Design:
+
+Single-atom catalysts (SACs) represent emerging systems for advancing sustainable technologies, from green energy conversion to sustainable chemistry. In a nutshell, SACs consists of isolated metal atoms dispersed on a support (e.g., functionalized carbon or oxide). Characterizing metal center spatial organization is key toestablish structure-property relationships and engineer materials with improved performance. Indeed proximity effects may determine significant changes in the catalytic properties of these system. In this project,we developed a CNN model to detect metal atoms in microscopy images of single-atom catalysts.The model achieved high accuracy and precision for Pt detection, with a significant portion of predictions being correct and a high number of correct positions found. Nickel detection was less ideal, with lower accuracy and precision, and a smaller percentage of correct predictions.
